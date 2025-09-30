@@ -16,13 +16,13 @@ Check out the live demo: https://puter.com/app/ai-resume-analyzer-149
 - [Zustand](https://zustand-demo.pmnd.rs/) is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
 
 # ✨ Features
-👉 Easy & convenient auth: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
-👉 Resume upload & storage: Let users upload and store all their resumes in one place, safely and reliably.
-👉 AI resume matching: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
-👉 Reusable, modern UI: Built with clean, consistent components for a great-looking and maintainable interface.
-👉 Code Reusability: Leverage reusable components and a modular codebase for efficient development.
-👉 Cross-Device Compatibility: Fully responsive design that works seamlessly across all devices.
-👉 Modern UI/UX: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+- 👉 Easy & convenient auth: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
+- 👉 Resume upload & storage: Let users upload and store all their resumes in one place, safely and reliably.
+- 👉 AI resume matching: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
+- 👉 Reusable, modern UI: Built with clean, consistent components for a great-looking and maintainable interface.
+- 👉 Code Reusability: Leverage reusable components and a modular codebase for efficient development.
+- 👉 Cross-Device Compatibility: Fully responsive design that works seamlessly across all devices.
+- 👉 Modern UI/UX: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
 
 # 🛠 Installation
 ```bash
